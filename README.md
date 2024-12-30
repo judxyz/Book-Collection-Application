@@ -1,4 +1,5 @@
-Book colleciton application allowing users to add, view, edit, and delete book records.
+Book collection application allowing users to add, view, edit, delete, and search for book records.
+
 Flask (backend), Jinja2 (templating), Bootstrap, Python (backend), HTML/CSS (front end).
 
 ![image](https://github.com/user-attachments/assets/146e2e5f-ad25-475c-a590-f0203ee86bde)
